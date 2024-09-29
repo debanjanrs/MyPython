@@ -1,7 +1,7 @@
 P=[100]
 
 # How to add element to array
-# P.append(2)
+P.append(2)
 print(P)
 # P.append(10)
 # P.append(11)
@@ -15,12 +15,10 @@ print(P)
 O.extend(P)
 print(O)
 
-
-
-
 a=[1]
 b=[2]
 c=[3]
 a.extend(b)
 a.extend(c)
 print(a)
+# hi
